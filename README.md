@@ -1,4 +1,4 @@
-### Hey, I'm Katrine! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hey, I'm Katrine! :woman_technologist: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 ---
 
@@ -6,7 +6,7 @@ I'm an enthusiastic .NET Software Developer. Passionate about opportunity workin
 
 Professional experience with technologies listed in the ***toolbox*** bellow.
 
-:mailbox_closed: My contacts: katelutoka@gmail.com | https://www.linkedin.com/in/katrine-lutoka-902905273/
+📮 My contacts: katelutoka@gmail.com | https://www.linkedin.com/in/katrine-lutoka-902905273/
 
 ---
 
@@ -16,7 +16,7 @@ Professional experience with technologies listed in the ***toolbox*** bellow.
 
 ---
 
-:woman_technologist: Additional skills
+✅ Additional skills
 
 - Git
 - C#
@@ -28,3 +28,11 @@ Professional experience with technologies listed in the ***toolbox*** bellow.
 - Clean Code, SOLID
 - Design Patterns
 - HTML & CSS, VueJS, TypeScript & NodeJS basics
+
+---
+
+📑 Projects
+
+Scooter Rental - application that allows users to rent scooters, calculate rental prices, and check the availability of scooters. The application also calculates the rental company's income. It was developed using C# programming language, along with unit testing and test-driven development (TDD) methodologies.
+
+Flight Planner - application for managing flight plans and associated information. It provides an intuitive user interface to store and search flights, making it convenient for users to manage their flight plans. The application is created using programming languages such as C#, Typescript, HTTP, and WEB API. 
