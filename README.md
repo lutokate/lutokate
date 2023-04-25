@@ -6,7 +6,7 @@ I'm an enthusiastic .NET Software Developer. Passionate about opportunity workin
 
 Professional experience with technologies listed in the ***toolbox*** bellow.
 
-📮 My contacts: katelutoka@gmail.com | https://www.linkedin.com/in/katrine-lutoka-902905273/
+📮 My contacts: katelutoka@gmail.com | https://www.linkedin.com/in/katrinelutoka/
 
 ---
 
